@@ -16,15 +16,12 @@ $ php -S localhost:8080 -t public/
 ```
 
 ## Available endpoints
-Obtain Beer list
-GET
+Obtain Beer list **GET**
 ```
 http://localhost:8080/beers
 ```
 
-Obtain Beer details
-
-GET
+Obtain Beer details **GET**
 ```
 http://localhost:8080/beers/2
 ```
